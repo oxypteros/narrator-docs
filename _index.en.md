@@ -26,4 +26,4 @@ Instead, we believe:
 That’s our honest perspective and now we’re truly on the same page.
 {{< /text2>}}
 {{< num-list STYLE="card" TITLE="" >}}
-{{< latest-content TITLE="What changed?" >}}
+{{< sections-list TITLE="Chapter Index" >}}
